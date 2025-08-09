@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/157216053?v=4" width="120" style="border-radius: 50%;" alt="Kumaresan Avatar">
+  <img src="https://avatars.githubusercontent.com/u/199898753?v=4" width="120" style="border-radius: 70%;" alt="Kumaresan Avatar">
   
   # 👋 Hi, I'm **Kumaresan C**  
   🚀 Passionate IT Student | 🌱 Frontend Developer in the making  
